@@ -31,7 +31,11 @@ MANIFEST
 /Week_1/application/dataset/test_signs.h5
 /Week_1/application/dataset/train_happy.h5
 /Week_1/application/dataset/train_signs.h5
-
+/Week2/Residual_Networks/dataset
+/Week2/Transfer_learning_with_MobileNet/dataset
+/week3/Object_detection/testing_images
+/week3/Object_detection/training_images
+/week3/Object_detection/sample_submission.csv
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
