@@ -25,6 +25,12 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+/cnn-venv
+/Week_1/application/dataset
+/Week_1/application/dataset/test_happy.h5
+/Week_1/application/dataset/test_signs.h5
+/Week_1/application/dataset/train_happy.h5
+/Week_1/application/dataset/train_signs.h5
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
